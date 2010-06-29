@@ -1,0 +1,55 @@
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\bin\Debug\Risolutore Euqazioni di 2° grado.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\bin\Debug\Risolutore Euqazioni di 2° grado.pdb
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\bin\Debug\Risolutore Euqazioni di 2° grado.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.exe
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.pdb
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\bin\Debug\Risolutore Euqazioni di 2° grado.exe.manifest
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\bin\Debug\Risolutore Euqazioni di 2° grado.application
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.TrustInfo.xml
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.exe.manifest
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Risolutore Euqazioni di 2° grado.application
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.AboutBox1.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Form1.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Resources.resources
+C:\Documents and Settings\Administrator\Impostazioni locali\Dati applicazioni\Temporary Projects\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.AboutBox1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Form1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.exe.manifest
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.application
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.TrustInfo.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.exe.manifest
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.application
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.exe.manifest
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.application
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.pdb
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Res.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.AboutBox1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Form1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.Resources.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Resolve2.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.TrustInfo.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.exe.manifest
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\obj\Debug\Res.application
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Resources\rad_decim21.jpg
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2010\Projects\Risolutore Euqazioni di 2° grado\Risolutore Euqazioni di 2° grado\bin\Debug\Resources\delta.JPG
